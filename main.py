@@ -4,10 +4,9 @@ import mysql.connector
 import tkinter as tk
 from customtkinter import *
 
-# DB_USER = "YOUR MYSQL USER_NAME"
-# DB_PASSWORD = "YOUR MYSQL PASSWORD"
-DB_USER = "sqluser"
-DB_PASSWORD = "password"
+DB_USER = "YOUR MYSQL USER_NAME"
+DB_PASSWORD = "YOUR MYSQL PASSWORD"
+
 
 db = mysql.connector.connect(
     host='localhost',
