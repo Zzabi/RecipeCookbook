@@ -84,18 +84,18 @@ Recipe Cookbook is a desktop application that allows users to store, explore, an
 ## Screenshots
 <table>
   <tr>
-    <td><img src="images/1_login.jpg" alt=" 1" width="600" height="300"/></td>
-    <td><img src="images/2_register.jpg" alt=" 2" width="600" height="300"/></td>
-    <td><img src="images/3_home.jpg" alt=" 3" width="600" height="300"/></td>
+    <td><img src="images/1_login.jpg" alt=" 1" width="400" height="200"/></td>
+    <td><img src="images/2_register.jpg" alt=" 2" width="400" height="200"/></td>
+    <td><img src="images/3_home.jpg" alt=" 3" width="400" height="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/4_explore_selection.jpg" alt=" 4" width="600" height="300"/></td>
-    <td><img src="images/5_explore_results.jpg" alt=" 5" width="600" height="300"/></td>
-    <td><img src="images/6_feedback.jpg" alt=" 6" width="600" height="300"/></td>
+    <td><img src="images/4_explore_selection.jpg" alt=" 4" width="400" height="200"/></td>
+    <td><img src="images/5_explore_results.jpg" alt=" 5" width="400" height="200"/></td>
+    <td><img src="images/6_feedback.jpg" alt=" 6" width="400" height="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/7_add_recipe.jpg" alt=" 7" width="600" height="300"/></td>
-    <td><img src="images/8_erdiagram.jpg" alt=" 8" width="600" height="300"/></td>
-    <td><img src="images/9_schema.jpg" alt=" 9" width="600" height="300"/></td>
+    <td><img src="images/7_add_recipe.jpg" alt=" 7" width="400" height="200"/></td>
+    <td><img src="images/8_erdiagram.jpg" alt=" 8" width="400" height="200"/></td>
+    <td><img src="images/9_schema.jpg" alt=" 9" width="400" height="200"/></td>
   </tr>
 </table>
