@@ -22,8 +22,8 @@ Recipe Cookbook is a desktop application that allows users to store, explore, an
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/Zzabi/Snackzy.git
-    cd Snackzy
+    git clone https://github.com/Zzabi/RecipeCookbook.git
+    cd RecipeCookbook
     ```
 
 2. Install required packages
